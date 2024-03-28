@@ -1,6 +1,6 @@
-#portfolio
+# Business Analyst
 
-###Education
+### Education
 Information System Engineering, BSc
 
 
