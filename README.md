@@ -28,3 +28,11 @@
 
 Contribution: Analyzing the best market by forecasting trends based on previously cultivated data using Jupyter Notebook (Python) 
 
+## Certifications 
+
+## Contact Me
+
+### Linkedin  
+### Mobile Number - +94 78 124 8200
+### Gmail         - sandalihewapa63@gmail.com
+
