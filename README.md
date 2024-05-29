@@ -1,125 +1,133 @@
-# Sandali Hewapathirana - Data Analyst Portfolio
+# Sandali Hewapathirana - Analyst Portfolio
 ## About
-Hi, I'm Sandali! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Information System Engineering. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+I am Sandali, a graduate with a degree in Information Technology, specializing in Information System Engineering, and I have achieved a GPA of 3.01. Over the past year, I have gained valuable experience working as a trainee internal auditor at Sri Lanka Insurance Corporation. Additionally, I have interned as a manual quality assurance engineer and as a business analyst at Rapdiventure Business Solutions Company. 
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+The world is changing rapidly, and while I may not have extensive professional experience, I am confident in my ability to bring a fresh perspective and an innovative approach to every project. I am open-minded and adept at quickly learning new concepts and skills.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Analytics related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
-  - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+- [About](https://github.com/SandaliHewapathirana/Sandali-Hewapathirana-portfolio/edit/main/README.md#about)
+- [Portfolio Projects](https://github.com/SandaliHewapathirana/Sandali-Hewapathirana-portfolio/edit/main/README.md#portfolio-projects)
+  - Business anlysis projects
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
   
 
+- [Education](https://github.com/SandaliHewapathirana/Sandali-Hewapathirana-portfolio/edit/main/README.md#education)  
+- [Certificates](https://github.com/SandaliHewapathirana/Sandali-Hewapathirana-portfolio/edit/main/README.md#certificates)
+- [Contact](https://github.com/SandaliHewapathirana/Sandali-Hewapathirana-portfolio/edit/main/README.md#contacts)
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+  
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will list analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### Business Aanlysis Projects
+#### Analyzing the Factors Contributing to the Success of a Movie
+**Code:** [`Potato Harvest Prediction SRS document.pdf`](https://github.com/SandaliHewapathirana/Portfolio-Projects/blob/main/Potato%20Harvest%20Prediction%20SRS%20document.pdf)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:**
+Help potato farmers to increase their harvest and the profit by providing a mobile application platform for the farmers to manage their tasks related to the potato harvesting properly.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** 
+most of the farmers have a low literacy level. Hence, this system has been developed using a flow which can be followed easily also for the users who do not have a higher literacy level. So, “Potato harvest prediction system”, has been built for the use of potato farmers as potato farmers.This potato harvest prediction system is a new, self-contained product. The product has been developed for the farmers who cultivate potatoes.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+The software assists the farmers with predicting how much of harvest can be expected according to the date of the plantation and the amount planted and the harvesting date. And also, the software assists with the prediction of whether condition, temperature, humidity and rainfall with the use of IoT, prediction of potato diseases and pest infections and also provides with best market suggestions.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Through following link you can access our user interface designs ['User Interfaces'](https://www.figma.com/design/kQnmgH56Hn3I8w4OQ7gdZ6/Solution-2?node-id=0-1).
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Skills:** Documentation, Problem Solving, UI, User Stories, Use case diagram, Activity Diagram.
 
-### Tech Store Sales Analysis
+**Technology:** Figma, UML.
 
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+Excel
+#### Bike Sale Dashboard
 
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Goal:** I
+dentify the ideal customer for a bike shop. To accomplish this, we will analyze customer data from an Excel sheet containing information on Marital Status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, and Purchased Bike.
 
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Code:** [`Bike Sale Dashboard.xlsx`](https://github.com/SandaliHewapathirana/Portfolio-Projects/blob/main/Bike%20Sale%20Dashboard.xlsx)
+
+**Setup:**
+To start the project, data cleaning was performed to ensure accurate analysis. This included the removal of duplicate entries to avoid potential biases in the dataset. Furthermore, the data was updated to be more interpretable, such as replacing "m" and "f" with "male" and "female", and "m" and "s" with "married" and "single". Age groups were also created to facilitate better visualization of the data. Additionally, I ensured there was no missing data and that each field had the correct data type.
+
+Business Questions:
+What is the most common age group of customers who purchase bikes from the shop?
+What is the most common gender of customers who purchase bikes from the shop?
+What is the most common income range of customers who purchase bikes from the shop?
+What is the most common education level of customers who purchase bikes from the shop?
+What is the most common occupation of customers who purchase bikes from the shop?
+What is the most common region of customers who purchase bikes from the shop?
+What is the most common commute distance of customers who purchase bikes from the shop?
+Does the marital status of customers have any correlation with the likelihood of purchasing a bike from the shop?
+
+**Data exploration**
+I used the customer data to create pivot tables that grouped the customers based on different criteria. Using these groups, I created charts that show key insights. Additionally, differnt functions were used to perform calculations.
+
+To make it easy to view all this information at once, I created a dashboard that displays all the charts. I also added a slicer to the dashboard, which allows users to filter the data based on different criteria. This makes it easy to identify the customer segments that are most likely to purchase a bike.
+
+Below figure show the Bike Sale Dashboard.
+![](https://github.com/SandaliHewapathirana/Sandali-Hewapathirana-portfolio/blob/main/images/DashboardOfBikeBuyrs.png)
+
+**Conclusion:** 
+The largest group of bike purchasers is aged 31-50. Most have partial high school education and work in management. North America is the leading region for bike sales, with purchasers typically commuting 0-1 mile. They usually own 0-1 cars and do not have children. Married customers are more likely to buy bikes, likely due to higher combined incomes, while home ownership does not significantly impact bike purchasing.
 
 **Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
 
-**Technology:** Python, Pandas, Matplotlib.
+**Technology:** Excel.
 
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+### Power BI
+#### Product Sale Dashboard
 
+**Goal**
+The Product Sales Analytics Dashboard project entails analyzing a company's sales data and indicating profit by product, sales, and other significant factors that might influence the company's performance.
 
+**Code:** [`Product Sale Dashboard.pbix`](https://github.com/SandaliHewapathirana/Portfolio-Projects/blob/main/Product%20Sale%20Dashboard.pbix)
 
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+**Description:** 
+The dataset includes information about sales informations in the company products. It contains various attributes such as the products, segment, countries , education, number of units sold, manufacturing price, sale price, discount, cost of good sale, profit, the years and months that products are sold.
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+**Dashoboard Design**
+With the processed data, I created a Product Sales analytics dashboard that presents key insights on below questions,
 
+Which month and year had the most profit?
+Where is the company seeing the most success (by country/region)?
+Which product and segment should the company continue to invest in?
 
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+These visualizations can help decision-making and keep track of their sales.
 
-**Technology:** SQL Server
+Below figure show the Bike Sale Dashboard.
+![](https://github.com/SandaliHewapathirana/Sandali-Hewapathirana-portfolio/blob/main/images/Dashoboardpowerbi.png)
 
+**Skills:**  Converting Data Types, Dashboard, Visualization
 
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
-
-
-
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
-
-
+**Technology:** Power BI, Power Quary, DAX funtions
 
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
-
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
+Sri Lanka Institute of Infromation technology(SLIIT), Malabe, Sri Lanka: 
+BSc.Information Technology specializing in Information System Engineering,
+GPA :3.01 (Second Lower)
+Jan 2019 - Jan 2024
 
 Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
+GCE (A/L) im Commerce Stream,
+Accounting - C
+Economics  - B
+Statistics - C
+2018
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
-
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have \:
+- [PwC Switzerland - Power BI Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_jfudroFWhmujC95S2_1715489451860_completion_certificate.pdf) (May 2024) (Forage - PwC)
+- [Data Analytics with Excel](https://olympus.mygreatlearning.com/courses/82319/certificate) (Fev 2024) (Great Learning)
+  
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@sandalihewpathirana]([https://www.linkedin.com/in/tianna-parris-9b6823176/](https://www.linkedin.com/in/sandali-hewapathirana-928201201/))
+- Email: sandalihewapa63@gmail.com
 
