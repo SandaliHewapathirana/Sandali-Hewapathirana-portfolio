@@ -128,6 +128,6 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Data Analytics with Excel](https://olympus.mygreatlearning.com/courses/82319/certificate) (Fev 2024) (Great Learning)
   
 ## Contacts
-- LinkedIn: [@sandalihewpathirana]([https://www.linkedin.com/in/tianna-parris-9b6823176/](https://www.linkedin.com/in/sandali-hewapathirana-928201201/))
+- LinkedIn: [@sandalihewpathirana](https://www.linkedin.com/in/sandali-hewapathirana-928201201/)
 - Email: sandalihewapa63@gmail.com
 
